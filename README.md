@@ -12,6 +12,6 @@ No. 3 Make a payload All you have to do is put your host and port and also the t
 
 installation 
 
-`git clone https://github.com/NAYZK-MAN/NAYZK`
+`git https://github.com/NAYZK-MAN/NAYZK-MAN-`
 
 `python3 paylo.py`
