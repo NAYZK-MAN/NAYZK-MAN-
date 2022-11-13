@@ -42,7 +42,7 @@ if k == '1':
 	os.system('pkg install proot')
 	os.system('pkg install curl')
 	os.system('gem install resolved')
-	os.sysyem('clear')
+	os.system('clear')
 	os.system('wget clone https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh')
 	os.system('chmod +x metasploit.sh')
 	os.system('./metasploit.sh')
