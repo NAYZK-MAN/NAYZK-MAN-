@@ -2,9 +2,7 @@
 
 In the name of of Allah the Merciful 
 
-Programming the tool to save effort for beginners
-1 is downloading Metasploit because the majority of people have a problem with the Metasploit installer 
-
+number 1 is to download Metasploit because the majority of people have a problem with the Metasploit installer 
 And number 2, download ngrok, and all you have to do is put your token, and the tool will take care of the rest 
 
 No. 3 Make a payload All you have to do is put your host and port and also the tool is running Metasploit 
