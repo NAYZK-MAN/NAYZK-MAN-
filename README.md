@@ -7,7 +7,7 @@ And number 2, download ngrok, and all you have to do is put your token, and the 
 
 No. 3 Make a payload All you have to do is put your host and port and also the tool is running Metasploit 
 
-installation 
+installation Linux 
 
 `git clone https://github.com/NAYZK-MAN/NAYZK-MAN-`
 
