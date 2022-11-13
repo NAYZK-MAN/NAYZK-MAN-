@@ -22,7 +22,7 @@ print('''\033[1;32m
                               WELCOME
                           
 ''')
-print('''
+print('''\033[1;32m
 [1] install metasploit
 
 [2] install ngrok
