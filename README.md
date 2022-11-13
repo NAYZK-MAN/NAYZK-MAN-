@@ -13,6 +13,6 @@ installation Linux
 
 `cd NAYZK-MAN-`
 
-`chmod +x paylo.py 
+`chmod +x paylo.py`
 
 `python3 paylo.py`
