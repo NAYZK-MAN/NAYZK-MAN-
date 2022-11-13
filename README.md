@@ -1,4 +1,4 @@
-# NAYZK-MAN-
+# paylo
 
 In the name of of Allah the Merciful 
 
@@ -12,7 +12,7 @@ No. 3 Make a payload All you have to do is put your host and port and also the t
 
 installation 
 
-`git https://github.com/NAYZK-MAN/NAYZK-MAN-`
+`git clone https://github.com/NAYZK-MAN/NAYZK-MAN-`
 
 `cd NAYZK-MAN-`
 
