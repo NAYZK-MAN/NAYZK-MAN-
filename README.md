@@ -14,4 +14,6 @@ installation
 
 `git https://github.com/NAYZK-MAN/NAYZK-MAN-`
 
+`cd NAYZK-MAN-`
+
 `python3 paylo.py`
