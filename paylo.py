@@ -47,7 +47,7 @@ if k == '1':
 	os.system('chmod +x metasploit.sh')
 	os.system('./metasploit.sh')
 	os.system('clear')
-	print('Do you want to run metasploit')
+	print('\033[1;32mDo you want to run metasploit')
 	w = input('\033[1;33mEnter [ n / y ] : ')
 	if w == 'y':
 		os.system('clear')
