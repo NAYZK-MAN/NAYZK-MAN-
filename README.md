@@ -9,3 +9,9 @@ Number 1 is to download Metasploit because the majority of people suffer from a 
 And number 2, download ngrok, and all you have to do is put your token, and the tool will take care of the rest 
 
 No. 3 Make a payload All you have to do is put your host and port and also the tool is running Metasploit 
+
+installation 
+
+git clone https://github.com/NAYZK-MAN/NAYZK
+
+python3 paylo.py 
